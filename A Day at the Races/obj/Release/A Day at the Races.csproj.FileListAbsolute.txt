@@ -1,0 +1,10 @@
+C:\Users\thelo\source\repos\A Day at the Races\A Day at the Races\bin\Release\A Day at the Races.exe.config
+C:\Users\thelo\source\repos\A Day at the Races\A Day at the Races\bin\Release\A Day at the Races.exe
+C:\Users\thelo\source\repos\A Day at the Races\A Day at the Races\bin\Release\A Day at the Races.pdb
+C:\Users\thelo\source\repos\A Day at the Races\A Day at the Races\obj\Release\A Day at the Races.csprojAssemblyReference.cache
+C:\Users\thelo\source\repos\A Day at the Races\A Day at the Races\obj\Release\A_Day_at_the_Races.Form1.resources
+C:\Users\thelo\source\repos\A Day at the Races\A Day at the Races\obj\Release\A_Day_at_the_Races.Properties.Resources.resources
+C:\Users\thelo\source\repos\A Day at the Races\A Day at the Races\obj\Release\A Day at the Races.csproj.GenerateResource.cache
+C:\Users\thelo\source\repos\A Day at the Races\A Day at the Races\obj\Release\A Day at the Races.csproj.CoreCompileInputs.cache
+C:\Users\thelo\source\repos\A Day at the Races\A Day at the Races\obj\Release\A Day at the Races.exe
+C:\Users\thelo\source\repos\A Day at the Races\A Day at the Races\obj\Release\A Day at the Races.pdb
